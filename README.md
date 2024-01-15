@@ -1,4 +1,4 @@
-# react-python-sample-app
+# react-python-app
 
 The application has a python server and a react-client. 
 
